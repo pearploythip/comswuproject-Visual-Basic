@@ -1,0 +1,11 @@
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\bin\Debug\CoffeeShopProject.exe.config
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\CoffeeShopProject.frm_login.resources
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\CoffeeShopProject.Resources.resources
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\CoffeeShopProject.vbproj.GenerateResource.Cache
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\CoffeeShopProject.xml
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\Project.frm_login.resources
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\Project.Resources.resources
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\Project.xml
+C:\Users\Pl0y\Desktop\vb\Project\Project\Project\obj\Debug\Project.pdb

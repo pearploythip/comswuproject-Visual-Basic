@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CoffeeShopProject
+</name>
+</assembly>
+<members>
+<member name="M:Project.code.cmd_excuteToDataGridView(System.Windows.Forms.DataGridView)">
+ <summary>
+ ดึงข้อมูลจากฐานข้อมูลไปแสดงใน DataGridView ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <param name="your_datagridView">ชื่อของ DataGrid ที่จะให้แสดงข้อมูล</param>
+ <remarks> ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน</remarks>
+</member>
+<member name="M:Project.code.cmd_excuteToDataTable">
+ <summary>
+ ดึงข้อมูลจากฐานข้อมูลมาเก็บไว้ ใน DataTable ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <returns>DataTable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteToDataSet">
+ <summary>
+ ดึงข้อมูลจากฐานข้อมูลมาเก็บไว้ ใน DataSet ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteComboBoxAndListBox(System.Object)">
+ <summary>
+ ดึงข้อมูลในฐานข้อมูลมาแสดงใน ComboBox หรือ Listbox ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <param name="your_comboBox_or_ListBox">ชื่อ combobox หรือ listbox ที่ต้องการให้แสดงข้อมูล</param>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteImageToPictureBox(System.Windows.Forms.PictureBox)">
+ <summary>
+ ดึงรูปภาพออกมาจากฐานข้อมูล และแสดงไปยัง PictureBox ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <param name="Your_PictureBox">ชื่อของ Picture ที่คุณจะให้รูปภาพแสดง</param>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteImage">
+ <summary>
+ ดึงรูปภาพออกมาจากฐานข้อมูล ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน"
+ </summary>
+ <returns>Image</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.convert_PictureBox_toDatabase(System.Windows.Forms.PictureBox)">
+ <summary>
+ แปลงภาพใน PictureBox เพื่อบันทึกลงฐานข้อมูล ต้องใช้ผ่าน Parameters.AddWithValue
+ </summary>
+ <param name="your_pictureBox">ชื่อ PictureBox ของคุณที่จะแปลงภาพ</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

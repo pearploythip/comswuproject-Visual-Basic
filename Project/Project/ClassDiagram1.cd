@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project.frm_coffeeSale" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAkgAlCIAgsQUIfyTQAASAgA4QQwXAWCAQAACRAA=</HashCode>
+      <FileName>frm_coffeeSale.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_history" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACBAAAIAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frm_history.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_login" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAFAhigEKAAIAAAABiAAECCAAAAMAAAAEAIAAAEAAA=</HashCode>
+      <FileName>frm_login.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_main" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAAECCgVwACACCACBCCAPQCAAAAAGAAAAAAIAA=</HashCode>
+      <FileName>frm_main.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_manage_coffee" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EpAQAAgQECAAAgOAASCSGACKBAAwAgoAAMQBAghABQA=</HashCode>
+      <FileName>frm_manage_coffee.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_manage_customer" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EoCgQoEQEKKAGREXoCGwYAKChHT/oAsBEEAAAEDhKiA=</HashCode>
+      <FileName>frm_manage_customer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_manage_staff" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EoAgAgFQEaKAkQAEoAGwgBKCgHB9IAsBCEgAEETAKiA=</HashCode>
+      <FileName>frm_manage_staff.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_promotion" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GgAAAgIQECIgAQACgBKAAAAKFAAAAAQUCiAAAABAEAQ=</HashCode>
+      <FileName>frm_promotion.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_select_customer" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECACAAAQAECAAQACAAQAIAoAAAAQAAAAAEI=</HashCode>
+      <FileName>frm_select_customer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_select_price" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACECAcAAAAAACAAAQCAAAAIAAACAAAABAAAAA=</HashCode>
+      <FileName>frm_select_price.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_total" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAHgUBECQABBAAgBCEyiCiBAARCAAQBEACAQAgGAA=</HashCode>
+      <FileName>frm_total.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm_usepromotion" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAECQiqAAEAACAgAAKAAAAIAASCQAAAAAAQAQ=</HashCode>
+      <FileName>frm_usepromotion.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.My.MyApplication" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.My.MySettings" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAEABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Project.code" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgYAQAgAAYQEAAAAAAAIIACEgIAAAAAAACQECA=</HashCode>
+      <FileName>code.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Project.ListView_Control" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAI=</HashCode>
+      <FileName>ListView_Control.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Project.My.MySettingsProperty" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Project.My.Resources.Resources" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACkwAgAQAIjCoQgxgAhLcAACBRAGAANAxIACAAAEBJA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

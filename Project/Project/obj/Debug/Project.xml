@@ -1,0 +1,306 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project
+</name>
+</assembly>
+<members>
+<member name="M:Project.code.cmd_excuteToDataGridView(System.Windows.Forms.DataGridView)">
+ <summary>
+ ดึงข้อมูลจากฐานข้อมูลไปแสดงใน DataGridView ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <param name="your_datagridView">ชื่อของ DataGrid ที่จะให้แสดงข้อมูล</param>
+ <remarks> ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน</remarks>
+</member>
+<member name="M:Project.code.cmd_excuteToDataTable">
+ <summary>
+ fn return ดึงข้อมูลจากฐานข้อมูลมาเก็บไว้ ใน DataTable ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <returns>DataTable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteToDataSet">
+ <summary>
+ ดึงข้อมูลจากฐานข้อมูลมาเก็บไว้ ใน DataSet ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteComboBoxAndListBox(System.Object)">
+ <summary>
+ ดึงข้อมูลในฐานข้อมูลมาแสดงใน ComboBox หรือ Listbox ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <param name="your_comboBox_or_ListBox">ชื่อ combobox หรือ listbox ที่ต้องการให้แสดงข้อมูล</param>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteImageToPictureBox(System.Windows.Forms.PictureBox)">
+ <summary>
+ ดึงรูปภาพออกมาจากฐานข้อมูล และแสดงไปยัง PictureBox ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน
+ </summary>
+ <param name="Your_PictureBox">ชื่อของ Picture ที่คุณจะให้รูปภาพแสดง</param>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.cmd_excuteImage">
+ <summary>
+ ดึงรูปภาพออกมาจากฐานข้อมูล ให้กำหนดคำสั่ง query ข้อมูลในตัวแปร oledb ก่อน"
+ </summary>
+ <returns>Image</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Project.code.convert_PictureBox_toDatabase(System.Windows.Forms.PictureBox)">
+ <summary>
+ แปลงภาพใน PictureBox เพื่อบันทึกลงฐานข้อมูล ต้องใช้ผ่าน Parameters.AddWithValue
+ </summary>
+ <param name="your_pictureBox">ชื่อ PictureBox ของคุณที่จะแปลงภาพ</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._10_baht">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._1000s">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._114044039">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._1140440391">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._1194592pxqwiyrsvk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._120889638">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._403659ebd49a6913f73465535d895039">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._5_baht">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._500s">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._50s">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._5238458">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._646386ym8xzq2c51">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources._png__gudetama_by_atsushika28_d8y9lm0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.avatar_ff0b622a32be_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.cake_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.carrots_pattern">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.CITOex1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.corazon_para_el_tuto__by_cande20_d5seutk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.Customer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.default_coffee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.fg_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.gudetama_by_proto_netop_d8v772t">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.hearts_in_a_row_tumblr_iAPQ1gz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.icon256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.iconmonstr_tag_6_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.large__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.pastel_diamond_pattern_vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.pastel_pink_cyan_pattern_37">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.pie_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.promotion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.rrrchev_butter_mirror_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.sale">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.tumblr_inline_n9gfz60SBh1qa3mpb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.tumblr_static_3dqy0wxmaeasoc888g8w8s080">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.untitled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.VisualEditor___Icon___Tag_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.Yjn2TSF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.เส้นคั้น">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.ขาย">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.จัดการกาแฟ">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.พนักงาน">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Project.My.Resources.Resources.ลูกค้า">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
